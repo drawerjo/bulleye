@@ -1,0 +1,6 @@
+bulleye includes the following third-party software. Each keeps its own licence.
+
+foliate-js (ui/lib) - MIT licence, Copyright (c) 2022 John Factotum. Full text: ui/lib/LICENSE
+Lucide icons (ui/icons.js) - ISC licence, Copyright (c) 2026 Lucide Icons and Contributors. Full text: ui/LICENSE-lucide.txt
+zip.js and fflate (ui/lib/vendor) - bundled with foliate-js; see their projects for licence terms (both permissive: BSD-3-Clause and MIT).
+Electron - MIT licence, https://www.electronjs.org (added at build time, not stored in this repository).

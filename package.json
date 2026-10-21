@@ -1,0 +1,9 @@
+{
+  "name": "bulleye",
+  "productName": "bulleye",
+  "version": "1.3.7",
+  "description": "bulleye ebook reader for EPUB, MOBI and AZW3",
+  "main": "main.js",
+  "author": "Joseph",
+  "license": "MIT"
+}

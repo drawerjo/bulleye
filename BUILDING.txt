@@ -1,0 +1,12 @@
+How to build bulleye from this source
+
+You need Node.js 18 or newer.
+
+1. Open a terminal in the build folder and run: npm install
+2. Update file only (what self-updating uses): node pack.mjs
+   This writes out/bulleye-ui.asar. Upload it to a GitHub release tagged vX.Y.Z.
+3. Full app: node package-app.mjs win32   (or: node package-app.mjs linux)
+4. Windows installer (optional): install NSIS (Nullsoft Scriptable Install System),
+   then run makensis installer.nsi in the build folder after step 3.
+
+To test without building: install Electron and run "electron ." in the top folder.
