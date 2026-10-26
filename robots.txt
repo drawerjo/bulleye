@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drawerjo.github.io/bulleye/sitemap.xml
